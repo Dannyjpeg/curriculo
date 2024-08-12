@@ -1,0 +1,50 @@
+<style>
+       
+        img {
+            max-width: 150px;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+        }
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 20px;
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        footer {
+            background-color: #ddd;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            border-top: 1px solid #bbb;
+        }
+        footer a {
+            text-decoration: none;
+            color: #333;
+        }
+        iframe {
+            display: block;
+            margin: 20px auto;
+            width: 100%;
+            max-width: 560px;
+            height: 315px;
+            border: none;
+        }
+    </style>
